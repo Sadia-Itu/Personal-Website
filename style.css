@@ -77,7 +77,11 @@ footer{
     width: 550px;
     position: absolute;
     color: white;
-    margin-left: 380px;
+    margin-left: 500px;
     margin-right: 120px;
     
+}
+.align{
+    padding-right: 300px;
+    padding-left: 70px;
 }
